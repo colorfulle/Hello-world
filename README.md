@@ -1,2 +1,2 @@
-# Hello-worold
+# Hello-world
 This is Test project
